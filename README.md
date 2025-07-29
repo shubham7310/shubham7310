@@ -1,119 +1,31 @@
-<!-- HACKER-THEMED README FOR SHUBHAM DARJI -->
+<h1 align="center">Hi 👋, I'm $HUBHAM DARJI</h1>
+<h3 align="center">An AI & Data Engineer from India specializing in machine learning pipelines.</h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Shubham+Darji;AI+%26+Data+Engineer;Deep+Learning+%7C+MLOps+%7C+Cloud+%7C+Big+Data" alt="Typing SVG" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham7310&label=Profile%20views&color=0e75b6&style=flat" alt="shubham7310" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham7310" alt="shubham7310" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently studying at **K. J. Somaiya Institute of Technology**
+
+- 👨‍💻 All of my projects are available at [https://shubhamdarji07.netlify.app/](https://shubhamdarji07.netlify.app/)
+
+- 📫 How to reach me **shubham072003@gmail.com**
+
+- 📄 Know about my experiences [https://shubhamdarji07.netlify.app/](https://shubhamdarji07.netlify.app/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shubham-darji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-darji" height="30" width="40" /></a>
+<a href="https://instagram.com/shubham073d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubham073d" height="30" width="40" /></a>
 </p>
 
-<pre align="center">
-█▀█ █░█ █▄░█ █▀▀ █░█ ▄▀█ █▀ █▀█ █▄█
-█▀▀ █▄█ █░▀█ ██▄ █▀█ █▀█ ▄█ █▄█ ░█░
-</pre>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=shubham7310&label=Profile+Views&color=00f7ff&style=for-the-badge" alt="Profile Views">
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham7310&show_icons=true&locale=en&layout=compact" alt="shubham7310" /></p>
 
-🔐 whoami
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham7310&show_icons=true&locale=en" alt="shubham7310" /></p>
 
-👨‍💻  Name      : Shubham Darji
-📍  Location  : Mumbai, India
-🎓  Student   : B.E. in Computer Engineering @ KJSIT
-🛠️  Role      : AI & Data Engineer
-🎯  Focus     : ML Pipelines | MLOps | Data Engineering | AWS
-
-🔧 toolkit --show all
-
-Languages
-Python
-
-Java
-
-JavaScript
-
-C++
-
-SQL
-
-ML, Data & Cloud
-Deep Learning
-
-Machine Learning
-
-Data Engineering
-
-MLOps
-
-AWS
-
-Big Data
-
-Tools & Databases
-TensorFlow
-
-PyTorch
-
-Docker
-
-Kubernetes
-
-Apache Spark
-
-SQL, NoSQL
-
-📂 projects.log --tail
-
-Project Name
-
-Status
-
-Achievement
-
-🚑 Lung Cancer ML
-
-📢 Published
-
-93% accuracy + IEEE Paper
-
-🧵 Fabric Defect DL
-
-📢 Published
-
-83% accuracy + 20% optimized Swin
-
-🥫 Food Pantry System
-
-✅ Deployed
-
-Boosted NGO ops by 40%
-
-🧮 BMI + Diet Planner
-
-✅ Deployed
-
-Engaged 30% more users
-
-🏆 achievements.sh
-
-🥇 Smart India Hackathon Finalist (Top 25)
-
-🛠️ Technical Admin – CSI, KJSIT (2024–25)
-
-🧠 Certifications from DeepLearning.AI, AWS, UC Davis, and UPenn
-
-🧑‍🏫 Organized 500+ participant tech events (e.g., Code Odyssey 3.0)
-
-📊 git stats --fetch
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shubham7310&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Shubham's GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham7310&theme=dark&hide_border=true" alt="GitHub Streak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham7310&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
-</p>
-
-📫 connect.sh
-
-You can connect with me on:
-
-LinkedIn
-
-GitHub
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham7310&" alt="shubham7310" /></p>
