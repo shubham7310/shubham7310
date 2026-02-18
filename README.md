@@ -1,127 +1,112 @@
 <h1 align="center">Hi 👋, I'm Shubham Darji</h1>
-<h3 align="center">AI & Data Engineer | Machine Learning | Computer Vision | Data Analytics</h3>
+<h3 align="center">AI Engineer • Machine Learning • Computer Vision • Data Analytics</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision;Data+Science+%7C+Analytics;Building+Real+World+AI+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer+Building+Intelligent+Systems;Machine+Learning+%7C+Deep+Learning+Expert;Computer+Vision+%7C+Data+Science;Turning+Data+Into+Decisions" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-🎓 Computer Engineering student at **K. J. Somaiya Institute of Technology**  
-🤖 Passionate about **Artificial Intelligence, Machine Learning & Data Engineering**  
-📊 Experienced in building **end-to-end ML pipelines & real-world AI systems**  
-🔬 Interested in **Computer Vision, Remote Sensing, Social Media Analytics**  
-🚀 Love solving real world problems using data  
+## 🧠 About Me
+🎓 Computer Engineering — **K. J. Somaiya Institute of Technology**  
+🤖 AI & Data Engineer building real-world ML systems  
+📊 Specialized in full ML pipelines & model optimization  
+🌍 Interested in Computer Vision, Remote Sensing & Analytics  
+🚀 Passionate about solving real-world problems with AI  
 
-🌐 Portfolio: https://shubhamdarji07.netlify.app/  
-📧 Email: shubham072003@gmail.com  
-
----
-
-## 🎓 Education
-**K. J. Somaiya Institute of Technology**  
-Bachelor of Technology — Computer Engineering  
+🌐 Portfolio → https://shubhamdarji07.netlify.app/  
+📧 Email → shubham072003@gmail.com  
 
 ---
 
-## 🧠 Research & Technical Interests
-✔ Machine Learning  
-✔ Deep Learning  
-✔ Computer Vision  
-✔ Data Engineering  
-✔ Satellite Image Analysis  
-✔ Social Media Analytics  
-✔ AI for Healthcare  
-✔ Remote Sensing  
+## ⚡ Tech Stack
+
+### 🤖 AI / Machine Learning
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+
+### 📊 Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
+
+### ☁ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+### 🌐 Development
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧵 Fabric Defect Detection using Deep Learning
+### 🧵 Fabric Defect Detection
 ✔ Faster R-CNN, YOLOv5, EfficientNet, Swin Transformer  
-✔ Achieved 83% detection accuracy  
-✔ Improved defect identification by 15%  
+✔ 83% detection accuracy  
 ✔ Bounding box localization  
 
 ---
 
-### 🫁 Lung Cancer Detection ML System
-✔ Prediction accuracy 93%  
+### 🫁 Lung Cancer Detection System
+✔ 93% prediction accuracy  
 ✔ SMOTE class balancing  
-✔ Feature optimization pipeline  
+✔ Optimized ML pipeline  
 
 ---
 
-### 🌍 Soil Moisture & Salinity Mapping (Satellite Data)
-✔ Sentinel-2 imagery processing  
-✔ NDMI / Spectral analysis  
+### 🌍 Soil Moisture Mapping (Satellite Data)
+✔ Sentinel-2 imagery  
+✔ NDMI spectral analysis  
 ✔ Heatmap visualization  
 
 ---
 
 ### 🍽 Community Food Pantry Platform
-✔ Full stack web system  
-✔ Donor-recipient connection  
-✔ Built using HTML, CSS, JS, PHP  
+✔ Full stack web application  
+✔ Donation & distribution system  
 
 ---
 
 ## 🏆 Achievements
-✔ Built multiple real-world AI systems  
-✔ Research oriented ML projects  
-✔ Full ML pipeline implementation  
-✔ Model optimization & performance tuning  
+✔ Built real-world AI systems  
+✔ End-to-end ML pipelines  
+✔ Model optimization expert  
+✔ Advanced data analysis  
 
 ---
 
 ## 📜 Certifications
-✔ Machine Learning (Add yours)  
+✔ Machine Learning Certification  
 ✔ Deep Learning Specialization  
 ✔ Data Science Certification  
-✔ Cloud / AWS Certification  
-
-(You can update these)
-
----
-
-## 💼 Technical Skills
-
-### 🤖 AI / Machine Learning
-Python, TensorFlow, PyTorch, Scikit-Learn, OpenCV, NLP
-
-### 📊 Data Science & Analytics
-Pandas, NumPy, Data Visualization, Statistical Analysis
-
-### ☁ Cloud & DevOps
-AWS, Linux, Git
-
-### 🌐 Web Development
-HTML, CSS, JavaScript, PHP, Bootstrap, Tailwind
-
-### 🗄 Databases
-MySQL, PostgreSQL, MongoDB, SQL Server, SQLite
-
----
-
-## 🛠 Languages & Tools
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,aws,linux,git,mysql,postgres,mongodb,html,css,js,php,bootstrap,tailwind" />
-</p>
+✔ AWS Cloud Fundamentals  
 
 ---
 
 ## 📄 Resume
-📥 Download Resume  
-(Add Google Drive resume link here)
+👉 Download Resume  
+(Add your Google Drive link)
 
 ---
 
 ## 🌐 Connect With Me
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/shubham-darji"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://instagram.com/shubham073d"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shubham7310&theme=algolia&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -147,11 +132,18 @@ MySQL, PostgreSQL, MongoDB, SQL Server, SQLite
 
 ---
 
-## 👀 Profile Views
+## 🐍 Contribution Snake
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=shubham7310&label=Profile%20Views&color=blue&style=flat" />
+<img src="https://raw.githubusercontent.com/shubham7310/shubham7310/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-⭐ From Shubham Darji — Building Intelligent Systems
+## 👀 Profile Views
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=shubham7310&label=Profile%20Views&color=00F7FF&style=flat" />
+</p>
+
+---
+
+⭐ From Shubham Darji — Building Intelligent Systems with AI
