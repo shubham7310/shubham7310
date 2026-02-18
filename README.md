@@ -1,31 +1,198 @@
-<h1 align="center">Hi 👋, I'm $HUBHAM DARJI</h1>
-<h3 align="center">An AI & Data Engineer from India specializing in machine learning pipelines.</h3>
+This is a GitHub profile `README.md` designed with a hacking theme. It presents your updated information (IIT Bombay internship, publications) in a terminal-style layout with green-on-black colors, ASCII art, and data tables.
+```markdown
+<!--
+  HACKING THEME FOR GITHUB PROFILE
+  Updated with IIT Bombay internship, new publications, etc.
+-->
+<div align="center">
+  
+```c
+________________________________________________________________________
+\                                                                        /
+ \   >> SHUBHAM DARJI - AI & DATA ENGINEER (ROOT ACCESS GRANTED) <<
+  \______________________________________________________________________/
+```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham7310&label=Profile%20views&color=0e75b6&style=flat" alt="shubham7310" /> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=./hack_the_planet.sh;AI+%26+Data+Engineer;IIT+Bombay+Research+Intern;3x+Publications;8.57+CGPA;root%40shubham%3A~%23+)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham7310" alt="shubham7310" /></a> </p>
+</div>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+```yaml
+_____________________________________________________________
+< FREQUENCY: 2.4 GHz | ENCRYPTION: AES-256 | STATUS: ONLINE >
+ -------------------------------------------------------------
+```
 
-- 🔭 I’m currently studying at **K. J. Somaiya Institute of Technology**
-
-- 👨‍💻 All of my projects are available at [https://shubhamdarji07.netlify.app/](https://shubhamdarji07.netlify.app/)
-
-- 📫 How to reach me **shubham072003@gmail.com**
-
-- 📄 Know about my experiences [https://shubhamdarji07.netlify.app/](https://shubhamdarji07.netlify.app/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shubham-darji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-darji" height="30" width="40" /></a>
-<a href="https://instagram.com/shubham073d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubham073d" height="30" width="40" /></a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=shubham7310&label=PROFILE_VIEWS&color=00ff00&style=flat-square" alt="views" />
+  <img src="https://img.shields.io/github/followers/shubham7310?label=FOLLOWERS&style=social&color=green" alt="followers" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shubham7310&theme=matrix&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophy" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+```css
+# whoami
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham7310&show_icons=true&locale=en&layout=compact" alt="shubham7310" /></p>
+<img align="right" src="https://raw.githubusercontent.com/shubham7310/shubham7310/main/assets/terminal.gif?raw=true" width="350px" alt="hacking gif" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham7310&show_icons=true&locale=en" alt="shubham7310" /></p>
+- **🔭 CURRENT MISSION:** Research Intern @ **IIT Bombay** (Aerospace Engineering) – ML/CV for UAV detection
+- **🎓 EDUCATION:** B.E. Computer Engineering, K. J. Somaiya Institute of Technology (2026) · CGPA: 8.57/10
+- **📡 COMMS:** [shubham072003@gmail.com](mailto:shubham072003@gmail.com)
+- **🌐 WEB:** [shubhamdarji07.netlify.app](https://shubhamdarji07.netlify.app)
+- **💻 TERMINAL:** `$ whoami` → Shubham Ishwar Darji
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham7310&" alt="shubham7310" /></p>
+```bash
+$ cat skills.txt | grep -E "AI|ML|Data"
+```
+
+---
+
+## 🧰 **TECH_STACK**
+
+### 🐍 LANGUAGES
+`Python` `SQL` `C` `PHP` `JavaScript` `HTML/CSS` `Bash`
+
+### 🤖 ML/DATA SCIENCE
+`TensorFlow` `PyTorch` `Scikit-learn` `XGBoost` `OpenCV` `YOLOv8` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly`
+
+### 🗄️ DATABASES & BIG DATA
+`PySpark` `MongoDB` `PostgreSQL` `SQL Server` `MySQL` `SQLite` `ChromaDB`
+
+### ☁️ DEVOPS & TOOLS
+`AWS` `Git/GitHub` `Docker` `Linux` `Power BI` `Tableau` `Excel` `Flask` `React` `Tailwind`
+
+```bash
+$ ls -la experience/
+```
+
+---
+
+## 💼 **WORK_EXPERIENCE** [⏳ ACTIVE]
+
+| INCEPTION | ROLE | ORGANIZATION | TECH |
+|-----------|------|--------------|------|
+| `Jan 2026` | **Research Intern** (ML/CV) | **IIT Bombay** - Aerospace Engg. | `YOLOv8` `OpenCV` `Quantization` |
+| `Jun 2024` | **Data Analyst / Software Engg** | Opportune Technologies | `Python` `REST APIs` `SQL` |
+
+```python
+# Recent projects (import from research)
+```
+
+---
+
+## 📚 **PUBLICATIONS & PROJECTS**
+
+```r
+[1] "Lung Cancer Detection" - INDIACom 2025 (IEEE) | 93% accuracy, SMOTE +15%
+[2] "Fabric Defect Detection" - Cuestiones de Fisioterapia | Swin Transformer tuning
+[3] "Personalize or Perish" - Hackathon 3rd place | Groq LLM + ChromaDB
+```
+
+<div align="center">
+  
+| PROJECT | METRICS | STATUS |
+|---------|---------|--------|
+| [**Lung Cancer Detection**](https://github.com/shubham7310/lung-cancer-detection) | `93% acc` `92.5% CV` `SMOTE +15%` | **PUBLISHED** ✅ |
+| [**Fabric Defect Detection**](https://github.com/shubham7310/fabric-defect) | `83% (FRCNN)` `Swin +20%` | **PUBLISHED** ✅ |
+| [**Personalize or Perish**](https://github.com/shubham7310/personalize-or-perish) | `-40% time` `5x faster` | **HACKATHON WIN** 🏆 |
+| **Target Identification @ IITB** | `real-time UAV` `pruned` | **CLASSIFIED** 🔒 |
+
+</div>
+
+```bash
+$ echo $CERTIFICATIONS
+```
+
+---
+
+## 🎓 **CERTIFICATIONS** (checksum verified)
+
+```json
+{
+  "AWS": "AWS Cloud Foundations (2025)",
+  "SQL": "SQL for Data Science - UC Davis (2024)",
+  "Python": "Intro to Python - UPenn (2024)",
+  "ML": "Supervised ML - DeepLearning.AI (2024)"
+}
+```
+
+```assembly
+; EXTRACURRICULAR ACTIVITIES
+```
+
+---
+
+## 🏴‍☠️ **LEADERSHIP & EVENTS**
+
+- **Technical Administrator** @ CSI-KJSIT: Renaissance 2024, Code Odyssey 3.0 (500+ participants) → `+20% efficiency via automation`
+- **Smart India Hackathon 2024**: Top 25 @ KJSIT (6-member team) → `+80% system efficiency` (EdTech platform)
+- **Event Head**: Tic Tac Toe (30+ participants) → `real-time scoring automation`
+- **Volunteer**: Youth Animal Association (2023-24) → `rescue & first aid`
+
+```bash
+$ nmap -sV github.com/shubham7310
+```
+
+---
+
+## 📊 **GITHUB_STATS**
+
+<div align="center">
+  
+![Stats](https://github-readme-stats.vercel.app/api?username=shubham7310&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=00CC00)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham7310&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=00CC00)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=shubham7310&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00AA00)](https://git.io/streak-stats)
+
+</div>
+
+```perl
+print "CONNECT WITH ME:\n";
+```
+
+---
+
+## 📡 **COMMAND & CONTROL**
+
+<p align="left">
+  <a href="https://linkedin.com/in/shubham-darji" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00AA00" />
+  </a>
+  <a href="https://instagram.com/shubham073d" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=00AA00" />
+  </a>
+  <a href="mailto:shubham072003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00AA00" />
+  </a>
+  <a href="https://shubhamdarji07.netlify.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white&color=00AA00" />
+  </a>
+</p>
+
+```ruby
+# Last updated: 2026-02-18 | IIT Bombay active
+```
+
+---
+
+<div align="center">
+  
+```
+_____________________________________________________________
+< 03:04:07 up 666 days, 23:43, 1 user, load average: 0.01, 0.03, 0.00 >
+ -------------------------------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+
+**✦ TERMINAL READY ✦**  
+`$ git clone https://github.com/shubham7310/shubham7310.git`  
+`$ cd shubham7310 && cat README.md`
+
+</div>
+```
